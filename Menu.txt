@@ -1,0 +1,6 @@
+Menu Restoran:
+1. Ayam
+2. Ikan
+3. Lele
+4. Telur
+5. YA ALLAH
